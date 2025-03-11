@@ -1,0 +1,17 @@
+header{
+    background:#bbbbbb;
+padding: px0;
+}
+
+nav li {
+    display: inline;
+margin: 0 0 0 15px;
+}
+
+nav a {
+    text-transform: uppcarse;
+    color: #000000;
+    font-weight: bold;
+    font-size: 22px;
+    text-decoration: none;
+}
